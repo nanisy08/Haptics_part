@@ -1,2 +1,2 @@
 # Haptics_part
-Teleoperation system - Sensing and haptics part
+Teleoperation system - Sensing force data and generating haptic feedback part
